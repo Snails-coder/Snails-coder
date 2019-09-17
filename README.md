@@ -1,1 +1,1 @@
-# Snails-coder
+# 博客静态
